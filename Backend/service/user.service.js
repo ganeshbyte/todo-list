@@ -1,0 +1,1 @@
+const findAllUsers = (req, res) => {};
